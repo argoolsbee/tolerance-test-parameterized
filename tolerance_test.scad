@@ -1,4 +1,4 @@
-// Tolerance Tester
+// Tolerance/Clearance Tester
 // Design inspired by jczuba (https://www.printables.com/model/740643-tolerance-test)
 // Parameterized version by argoolsbee (https://www.printables.com/model/779616-tolerance-test-parameterized)
 
